@@ -1,2 +1,2 @@
 # MusicBasedOnFacialExpression
-This is a python project which will detect facial emotion and then opens youtube playlists based on the expression
+This is a python project which detects facial emotion and then opens youtube playlists based on the expression
